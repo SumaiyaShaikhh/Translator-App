@@ -1,0 +1,5 @@
+streamlit
+openai-agents
+python-dotenv
+google-generativeai
+nest_asyncio
